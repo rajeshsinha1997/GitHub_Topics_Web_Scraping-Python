@@ -1,2 +1,2 @@
-# GitHub_Topics_Web_Scraping-Python
+# GitHub Topics Web Scraping - Python
 A web scraping project on GitHub's topics page
